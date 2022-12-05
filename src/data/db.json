@@ -1,0 +1,52 @@
+{
+  "Kategori": [
+    {
+      "nama": "Penginapan",
+      "Deskripsi": "Ini Hotel di geopark part 1",
+      "id": 2
+    },
+    {
+      "nama": "Wisata",
+      "Deskripsi": "Wisata",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nama": "Makanan",
+      "Deskripsi": "Makanan Geopark punya Hafid\n"
+    }
+  ],
+  "menunggureview": [
+    {
+      "id": "1",
+      "username": "adjirata01",
+      "Judul": "Makanan Sehat",
+      "Tanggal": "08/10/2022",
+      "BatasPengecekan": "13/10/2022",
+      "JenisArtikel": "Deskripsi"
+    },
+    {
+      "id": "2",
+      "username": "aritana08",
+      "Judul": "Penginapan Termurah",
+      "Tanggal": "18/10/2022",
+      "BatasPengecekan": "23/10/2022",
+      "JenisArtikel": "Narasi"
+    },
+    {
+      "id": "3",
+      "username": "ananta22",
+      "Judul": "Wisata Impian",
+      "Tanggal": "15/10/2022",
+      "BatasPengecekan": "18/10/2022",
+      "JenisArtikel": "Narasi"
+    }
+  ],
+  "reviewartikel": [
+    {
+      "id": "1",
+      "Judul": "Menulis Artikel yang baik",
+      "isi": "Anda tertarik untuk menulis teks artikel? Pahami terlebih dahulu langkah-langkah sebelum menulis artikel! Yuk cari tahu di buku Teknik Penulisan Berita, Feature, dan Artikel, Prof. Drs. M. Atar Semi menuliskan 10 langkah yang perlu dilakukan sebelum menulis teks artikel."
+    }
+  ]
+}
